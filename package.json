@@ -1,0 +1,13 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "A JavaScript project with a GitHub Actions CI pipeline",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
